@@ -1,6 +1,6 @@
 # buswatcher-insights-julia
 
-some notebooks experimenting with neural nets and julia
+some notebooks experimenting with neural nets and julia, data set covering NYC April 1, 2021 to June 30, 2021.
 
 the base csv is not included.
 
